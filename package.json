@@ -1,0 +1,1 @@
+{"name":"server-skripsi-muzakki","version":"1.0.0","scripts":{"rest":"node rest_server.js","graphql":"node graphql_server.js"},"dependencies":{"@apollo/server":"^5.5.0","apollo-server-express":"^3.12.0","cors":"^2.8.5","express":"^4.18.2","fs-extra":"^11.3.4","graphql":"^16.13.2"}}
