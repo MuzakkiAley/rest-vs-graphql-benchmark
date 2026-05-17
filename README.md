@@ -151,8 +151,8 @@ node graphql/server.js
 
 | Component | Spec |
 |---|---|
-| Server laptop | [your server spec here] |
-| Client laptop | [your client spec here] |
+| Server laptop | [AMD Athlon Silver 7120U with Radeon Graphics] |
+| Client laptop | [AMDRyzen 3 3250U with Radeon Graphics] |
 | Network | Two devices on separate internet connections |
 | Tunneling | ngrok |
 
